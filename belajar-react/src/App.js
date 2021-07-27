@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="bg-red-500">
       <h1>hello world</h1>
-      <h3>hai</h3>
+      <h3>hai semua</h3>
     </div>
   );
 }
